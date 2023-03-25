@@ -91,3 +91,9 @@ This will prevent Windows Defender from scanning your WARZONE Client.
 
 # How to buy it
 Download link: https://satoshidisk.com/pay/CI1qW9
+
+# Screenshot
+
+![warzone](warzone-rat-fig03.png)
+
+![builder](Warzone.png)
